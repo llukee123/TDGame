@@ -72,11 +72,3 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-TD 5.4/Intermediate/CachedAssetRegistry_0.bin
-TD 5.4/Saved/AutoScreenshot.png
-TD 5.4/Saved/Config/CrashReportClient/UECC-Windows-BEECE6B84E3930D50E7A1CA1E7BEEF92/CrashReportClient.ini
-TD 5.4/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-TD 5.4/Saved/Logs/TD-backup-2024.10.11-15.31.41.log
-TD 5.4/Saved/Logs/TD-backup-2024.10.16-16.30.37.log
-TD 5.4/Saved/Logs/TD.log
-TD 5.4/Saved/Telemetry/Telemetry.json
